@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HXL3pd3uqUC7sV589NBDMiI82D8YtckLxMkHPqmgPmk8JKm2fuoNtp4GSONpuXw7zo5yXpOM25hdRDWwAQjohA==",
+  "success": true,
+  "projectFilePath": "D:\\prog\\C#\\Server\\Server\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\God\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
